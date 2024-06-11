@@ -1,2 +1,2 @@
 # Alexandra-Reshetnikova-s-portfolio еще 
-Измени потом описание и тут еще 
+<img src="img/banner.jpeg" alt="Banner about me">
