@@ -1,2 +1,2 @@
 # 
-<img src="img/banner.jpg" alt="Banner about me">
+<img src="img/banner.jpeg" alt="Banner about me">
